@@ -10,8 +10,8 @@ The file "**network.py**" is the code of the network architecture.
 The file "**main_drosophila.py**" is the code of the entire model to predict enhancer activity in Drosophila.   
 The file "**main_human.py**" is the code of the entire model to predict enhancer activity in  human cell lines.
 ## Dependency
-python 3.8.18  
-pip 23.3.1
-keras 2.3.1
+python 3.8.18   
+pip 23.3.1  
+keras 2.3.1  
 tensorflow 2.2.0  
-scikit-learn 1.2.1
+scikit-learn 1.2.1  
