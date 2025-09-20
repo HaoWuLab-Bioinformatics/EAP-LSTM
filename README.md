@@ -13,3 +13,5 @@ pip 23.3.1
 keras 2.3.1  
 tensorflow 2.2.0  
 scikit-learn 1.2.1  
+## Datasets Download
+https://drive.google.com/drive/folders/1Z43Wba3kB6HX0gY3W9MHebTvVHPSbyZ7?usp=drive_link
